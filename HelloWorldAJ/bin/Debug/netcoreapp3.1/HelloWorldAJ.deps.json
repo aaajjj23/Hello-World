@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloWorldAJ/1.0.0": {
+        "runtime": {
+          "HelloWorldAJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorldAJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
